@@ -54,7 +54,7 @@ wanderlust/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nksharmaexe/wanderlust.git
+git clone https://github.com/Pyadav597
 cd wanderlust
 npm install
 node app.js
