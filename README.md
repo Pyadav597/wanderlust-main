@@ -60,4 +60,4 @@ npm install
 node app.js
 ```
 ---
-👨‍💻 Author - Nitesh Kumar
+👨‍💻 Author - Priya yadav
