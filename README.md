@@ -17,7 +17,7 @@ A full-stack travel listing web application where users can explore, create, and
 
 ## 🔗 Live Demo
 
-👉 [Visit Wanderlust Live](https://wanderlust-project-udmd.onrender.com)
+👉 [Visit Wanderlust Live](https://wanderlust-main-2tb8.onrender.com)
 
 ---
 
